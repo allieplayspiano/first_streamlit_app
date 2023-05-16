@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Allison's Fun Streamlit App!')
+streamlit.title('Allison Has a Fun Streamlit App!')
