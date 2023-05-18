@@ -1,6 +1,6 @@
 import streamlit
-
-streamlit.title('Allison Has a Fun Streamlit App!')
-streamlit.header('Welcome to the Dublin Office!')
-streamlit.text('We are so glad that you joined Snowflake. Allison has curated this list of local cafes, lunch spots, and hiking trails for your leisure.')
-               
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+         
